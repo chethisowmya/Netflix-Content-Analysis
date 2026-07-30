@@ -39,6 +39,7 @@ This analysis aims to answer questions such as:
 This project uses a dataset named **`netflix.csv`**, which contains information about Netflix movies and TV shows, including title, type, director, cast, country, release year, rating, duration, genres, and description.
 
 The dataset is included in this repository to enable reproduction of the analysis presented in this project.
+
 ---
 
 ## 🛠️ Technologies Used
@@ -123,33 +124,15 @@ Based on the analysis, the following recommendations are suggested:
 
 ## ▶️ How to Run the Project
 
-1. Clone this repository.
+1. Clone or download this repository.
+2. Install the required Python libraries:
 
-```
-git clone <repository-url>
-```
-
-2. Navigate to the project directory.
-
-```
-cd Netflix-Content-Analysis
-```
-
-3. Install the required libraries.
-
-```
+```bash
 pip install -r requirements.txt
 ```
 
-4. Place the dataset file as:
-
-```
-netflix.csv
-```
-
-inside the project folder.
-
-5. Open the notebook and run all cells.
+3. Open `netflix_content_analysis.ipynb` in Jupyter Notebook, JupyterLab, VS Code, or Google Colab.
+4. Run all cells to reproduce the analysis and visualizations.
 
 ---
 
