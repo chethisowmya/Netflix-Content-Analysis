@@ -149,18 +149,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Future Improvements
-
-Possible enhancements include:
-
-- Interactive dashboards using Tableau or Power BI
-- Genre recommendation analysis
-- Time-series forecasting
-- Predictive modeling using Machine Learning
-- NLP-based description analysis
-
----
-
 ## 👩‍💻 Author
 
 **Sowmya Chethi**
