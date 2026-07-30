@@ -52,16 +52,13 @@ The dataset is included in this repository to enable reproduction of the analysi
 
 ---
 
-## 📁 Repository Structure
-
-```
 Netflix-Content-Analysis/
 │
 ├── README.md
 ├── netflix_content_analysis.ipynb
+├── netflix.csv
 ├── requirements.txt
 └── .gitignore
-```
 
 ---
 
