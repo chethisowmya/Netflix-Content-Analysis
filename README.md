@@ -36,25 +36,9 @@ This analysis aims to answer questions such as:
 
 ## 📂 Dataset
 
-This notebook expects a dataset named **`netflix.csv`** in the project directory.
+This project uses a dataset named **`netflix.csv`**, which contains information about Netflix movies and TV shows, including title, type, director, cast, country, release year, rating, duration, genres, and description.
 
-The dataset contains information such as:
-
-- Show ID
-- Title
-- Type (Movie / TV Show)
-- Director
-- Cast
-- Country
-- Date Added
-- Release Year
-- Rating
-- Duration
-- Genres
-- Description
-
-> **Note:** The dataset is **not included** in this repository. Use a publicly available Netflix Titles dataset with the same schema and save it as `netflix.csv` before running the notebook.
-
+The dataset is included in this repository to enable reproduction of the analysis presented in this project.
 ---
 
 ## 🛠️ Technologies Used
